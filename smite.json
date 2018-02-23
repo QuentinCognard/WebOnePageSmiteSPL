@@ -64,7 +64,7 @@
           "date":" 2018-01-07 "
         },
         {
-          "nomEvent":" 	2017 NA Regional Championship",
+          "nomEvent":"2017 NA Regional Championship",
           "place":"1st",
           "date":" 2017-11-05 "
         },
@@ -72,7 +72,7 @@
           "nomEvent":"2017 NA SPL Fall Season",
           "place":"1st",
           "date":" 2017-10-08 "
-        },
+        }
       ]
     }
   ]
