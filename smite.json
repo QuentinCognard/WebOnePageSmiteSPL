@@ -1,5 +1,79 @@
 {
-  "tasks": [
-
+  "equipe": [
+    {
+      "id": 1,
+      "nom": "eUnited",
+      "logo":"jipègue.jpg",
+      "joueurs":[
+        {
+          "id":10,
+          "role":"Solo",
+          "image":"tete.jpg",
+          "pseudo":"Benji",
+          "prenom":"Ben",
+          "nom":"McKinzey",
+          "anniversaire":"01/02/1999",
+          "origine":"NA"
+        },
+        {
+          "id":11,
+          "role":"Jungle",
+          "image":"tete.jpg",
+          "pseudo":"Screammmmm",
+          "prenom":"Lukas",
+          "nom":"Spracklin",
+          "anniversaire":"18/03/2001",
+          "origine":"NA"
+        },
+        {
+          "id":12,
+          "role":"Mid",
+          "image":"tete.jpg",
+          "pseudo":"Venenu",
+          "prenom":"Brandon",
+          "nom":"Casale",
+          "anniversaire":"",
+          "origine":"NA"
+        },
+        {
+          "id":13,
+          "role":"Hunter",
+          "image":"tete.jpg",
+          "pseudo":"PandaCat",
+          "prenom":"Maksim",
+          "nom":"Yanevich",
+          "anniversaire":"24/02/2000",
+          "origine":"Ukraine"
+        },
+        {
+          "id":14,
+          "role":"Suport",
+          "image":"tete.jpg",
+          "pseudo":"PolarBearMike",
+          "prenom":"Michael",
+          "nom":"Heiss",
+          "anniversaire":"25/08/1996",
+          "origine":"NA"
+        }
+      ],
+      "origine":"NA",
+      "palmarès":[
+        {
+          "nomEvent":"SMITE World Championship 2018",
+          "place":"1st",
+          "date":" 2018-01-07 "
+        },
+        {
+          "nomEvent":" 	2017 NA Regional Championship",
+          "place":"1st",
+          "date":" 2017-11-05 "
+        },
+        {
+          "nomEvent":"2017 NA SPL Fall Season",
+          "place":"1st",
+          "date":" 2017-10-08 "
+        },
+      ]
+    }
   ]
 }
