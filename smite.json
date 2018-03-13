@@ -8,7 +8,7 @@
         {
           "id":10,
           "role":"Solo",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:DNL_Benj1_2016_Fall.png&filetimestamp=20170726203726&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/f/f7/DNL_Benj1_2016_Fall.png/220px-DNL_Benj1_2016_Fall.png?version=2213dc8633682831b7173febeb645142",
           "pseudo":"Benji",
           "prenom":"Ben",
           "nom":"McKinzey",
@@ -18,7 +18,7 @@
         {
           "id":11,
           "role":"Jungle",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:NME_Shatt3red_2016_Fall.png&filetimestamp=20170726220014&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/9/98/NME_Shatt3red_2016_Fall.png/220px-NME_Shatt3red_2016_Fall.png?version=9e8fcbdae2f33b800225a23c077b3dfd",
           "pseudo":"Screammmmm",
           "prenom":"Lukas",
           "nom":"Spracklin",
@@ -28,7 +28,7 @@
         {
           "id":12,
           "role":"Mid",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Venenu.PNG&filetimestamp=20171210044939&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/1/1c/Venenu.PNG/220px-Venenu.PNG?version=788ed51d00b4e984e8ebb120b9280c87",
           "pseudo":"Venenu",
           "prenom":"Brandon",
           "nom":"Casale",
@@ -38,7 +38,7 @@
         {
           "id":13,
           "role":"Hunter",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:NME_PandaCat_2016_Fall.png&filetimestamp=20170726215943&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/b/be/NME_PandaCat_2016_Fall.png/220px-NME_PandaCat_2016_Fall.png?version=8b8376150b99bfe62c89e6f80e724134",
           "pseudo":"PandaCat",
           "prenom":"Maksim",
           "nom":"Yanevich",
@@ -48,7 +48,7 @@
         {
           "id":14,
           "role":"Suport",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:ALG_PolarBearMike_2016_Fall.png&filetimestamp=20170726194836&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/6/65/ALG_PolarBearMike_2016_Fall.png/220px-ALG_PolarBearMike_2016_Fall.png?version=74fd5ed25c49782d1147cf636e27b35b",
           "pseudo":"PolarBearMike",
           "prenom":"Michael",
           "nom":"Heiss",
@@ -78,12 +78,12 @@
     {
       "id": 2,
       "nom": "Spacestation Gaming",
-      "logo":"https://smite-esports.gamepedia.com/index.php?title=File:Spacestation_Gaming_logo.png&filetimestamp=20170726230142&",
+      "logo":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/6/67/Spacestation_Gaming_logo.png/300px-Spacestation_Gaming_logo.png?version=ade68371742080a57d58e6368bf36078",
       "joueurs":[
         {
           "id":20,
           "role":"Solo",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Aquarius.png&filetimestamp=20171210044319&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/6/64/Aquarius.png/220px-Aquarius.png?version=4e0363f4fae4c14758127dbb42425f9c",
           "pseudo":"Aquarius",
           "prenom":"Ryan ",
           "nom":"O'Neill",
@@ -93,7 +93,7 @@
         {
           "id":21,
           "role":"Jungle",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:SSG_Andinster_2017.png&filetimestamp=20171220195643&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/3/3a/SSG_Andinster_2017.png/220px-SSG_Andinster_2017.png?version=c2e62c5dacb2d7ce0c0e0afd43a9b27e",
           "pseudo":"andinster",
           "prenom":"Andrew ",
           "nom":"Woodward",
@@ -103,7 +103,7 @@
         {
           "id":22,
           "role":"Mid",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:SoaR_Baskin_2016_Fall.png&filetimestamp=20170726225828&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/0/0a/SoaR_Baskin_2016_Fall.png/220px-SoaR_Baskin_2016_Fall.png?version=ce4876b53b41ba61bd51d9492c731349",
           "pseudo":"Baskin",
           "prenom":"Kim",
           "nom":"Woon-young",
@@ -113,7 +113,7 @@
         {
           "id":23,
           "role":"Hunter",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:LG_BaRRaCCuDDa_2016_Fall.png&filetimestamp=20170726214051&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/2/29/LG_BaRRaCCuDDa_2016_Fall.png/220px-LG_BaRRaCCuDDa_2016_Fall.png?version=f5653333977e40dcc061c491d5c10b0f",
           "pseudo":"BaRRaCCuDDa",
           "prenom":"John",
           "nom":"Salter",
@@ -123,7 +123,7 @@
         {
           "id":24,
           "role":"Suport",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:LG_JeffHindla_2016_Fall.png&filetimestamp=20170726214152&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/9/9c/LG_JeffHindla_2016_Fall.png/220px-LG_JeffHindla_2016_Fall.png?version=d6b4dd64fe49875c3ca06a6e5d0d98cc",
           "pseudo":"JeffHindla",
           "prenom":"Rosario ",
           "nom":"Vilardi",
@@ -153,12 +153,12 @@
     {
       "id": 3,
       "nom": "Splyce",
-      "logo":"https://smite-esports.gamepedia.com/index.php?title=File:Splycelogo_square.png&filetimestamp=20180107214925&",
+      "logo":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/9/9e/Splycelogo_square.png/300px-Splycelogo_square.png?version=e4b5114997a75cbe19e744ac6ad063b1",
       "joueurs":[
         {
           "id":30,
           "role":"Solo",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:EGr_Divios_2016_Fall.png&filetimestamp=20170726204419&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/e/e6/EGr_Divios_2016_Fall.png/220px-EGr_Divios_2016_Fall.png?version=a137268dac7a581ed18f6bd38abe9b70",
           "pseudo":"Divios",
           "prenom":"Nicklaus",
           "nom":"Neumeyer",
@@ -168,7 +168,7 @@
         {
           "id":31,
           "role":"Jungle",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:YujiiiiSplyce.png&filetimestamp=20180126232827&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/b/b1/YujiiiiSplyce.png/220px-YujiiiiSplyce.png?version=ab73567295eb806c5e98eed1730fd374",
           "pseudo":"Yujiiii",
           "prenom":"Yuji",
           "nom":"Box",
@@ -178,7 +178,7 @@
         {
           "id":32,
           "role":"Mid",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:EGr_TheBest_2016_Fall.png&filetimestamp=20170726204442&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/1/1b/EGr_TheBest_2016_Fall.png/220px-EGr_TheBest_2016_Fall.png?version=456ad31ce6005b293e0fec2ca6d356c1",
           "pseudo":"TheBest",
           "prenom":"Jeremy",
           "nom":"Dailey",
@@ -188,7 +188,7 @@
         {
           "id":33,
           "role":"Hunter",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:ALG_CycloneSpin_2016_Fall.png&filetimestamp=20170726194827&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/c/cb/ALG_CycloneSpin_2016_Fall.png/220px-ALG_CycloneSpin_2016_Fall.png?version=57ace445de7fa12f473bd8f8255e7d83",
           "pseudo":"CycloneSpin",
           "prenom":"Jarod",
           "nom":"Nguyen",
@@ -198,7 +198,7 @@
         {
           "id":34,
           "role":"Suport",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:EGr_Aror_2016_Fall.png&filetimestamp=20170726204437&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/b/bd/EGr_Aror_2016_Fall.png/220px-EGr_Aror_2016_Fall.png?version=b1ee0df2db13b2bb203b572ad0bb73e8",
           "pseudo":"Aror",
           "prenom":"Max",
           "nom":"Jackson",
@@ -213,12 +213,12 @@
     {
       "id": 4,
       "nom": "Trifecta",
-      "logo":"https://smite-esports.gamepedia.com/index.php?title=File:Trifectalogo_square.png&filetimestamp=20170726232328&",
+      "logo":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/9/91/Trifectalogo_square.png/300px-Trifectalogo_square.png?version=7fc006bcfde10f4dba18ed8d7e7c6b6c",
       "joueurs":[
         {
           "id":40,
           "role":"Solo",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:SSG_ScaryD_2017.png&filetimestamp=20171220195338&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/f/f1/SSG_ScaryD_2017.png/220px-SSG_ScaryD_2017.png?version=5733d392f734077544d3366174f8b184",
           "pseudo":"ScaryD",
           "prenom":"Ronald ",
           "nom":"Belair",
@@ -228,7 +228,7 @@
         {
           "id":41,
           "role":"Jungle",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Mask2.png&filetimestamp=20171210044457&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/2/27/Mask2.png/220px-Mask2.png?version=516b04a47b1b413b728e15b9d40cdebc",
           "pseudo":"Mask",
           "prenom":"Suharab",
           "nom":"Askarzada",
@@ -238,7 +238,7 @@
         {
           "id":42,
           "role":"Mid",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:SoaR_Metyankey_2016_Fall.png&filetimestamp=20170726225805&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/8/84/SoaR_Metyankey_2016_Fall.png/220px-SoaR_Metyankey_2016_Fall.png?version=0b28801cbfb48e40a480ee5f597ee89c",
           "pseudo":"Metyankey",
           "prenom":"Michael",
           "nom":"Fasciano",
@@ -248,7 +248,7 @@
         {
           "id":43,
           "role":"Hunter",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:SSG_Zapman_2017.png&filetimestamp=20171220200050&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/6/6e/SSG_Zapman_2017.png/220px-SSG_Zapman_2017.png?version=d8d26f950511147604c520ff3a09b63e",
           "pseudo":"Zapman",
           "prenom":"Steven ",
           "nom":"Zapas",
@@ -258,7 +258,7 @@
         {
           "id":44,
           "role":"Suport",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Neirumah.png&filetimestamp=20171210024452&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/f/f8/Neirumah.png/220px-Neirumah.png?version=c812237a8d19efc0e0e62bd4ba5d3869",
           "pseudo":"NeiruMah",
           "prenom":"Neil ",
           "nom":"Mah",
@@ -288,12 +288,12 @@
     {
       "id": 5,
       "nom": "mousesports",
-      "logo":"https://smite-esports.gamepedia.com/index.php?title=File:Mousesportslogo_square.png&filetimestamp=20180222182024&",
+      "logo":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/f/f9/Mousesportslogo_square.png/300px-Mousesportslogo_square.png?version=dcd758a5047d540a99cfdc6d5fda00b5",
       "joueurs":[
         {
           "id":50,
           "role":"Solo",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:SnG_Nika_2016_Fall.png&filetimestamp=20170726225637&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/6/62/SnG_Nika_2016_Fall.png/220px-SnG_Nika_2016_Fall.png?version=9dd6774ab5b97a4dd03b1a83ff5df23b",
           "pseudo":"Nika",
           "prenom":"Nika",
           "nom":"Pataraia",
@@ -303,7 +303,7 @@
         {
           "id":51,
           "role":"Jungle",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:SnG_Cherryo_2016_Fall.png&filetimestamp=20170726225650&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/2/25/SnG_Cherryo_2016_Fall.png/220px-SnG_Cherryo_2016_Fall.png?version=cc689f378d61a4737e49f8597b2a3c3d",
           "pseudo":"Cherryo",
           "prenom":"Mohaned",
           "nom":"Walied",
@@ -313,7 +313,7 @@
         {
           "id":52,
           "role":"Mid",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:DIG_BigManTingz_2016_Fall.png&filetimestamp=20170726203624&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/f/f8/DIG_BigManTingz_2016_Fall.png/220px-DIG_BigManTingz_2016_Fall.png?version=e98dadd4c7eed0f886466c537aea2b1d",
           "pseudo":"BigManTingz",
           "prenom":"Jordan",
           "nom":"Theaker",
@@ -323,7 +323,7 @@
         {
           "id":53,
           "role":"Hunter",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:ELV_Jermain_2016_Fall.png&filetimestamp=20170726204459&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/4/49/ELV_Jermain_2016_Fall.png/220px-ELV_Jermain_2016_Fall.png?version=59102fbde74ec588379feb545e1dd7c1",
           "pseudo":"Jermain",
           "prenom":"Ethan",
           "nom":"Batarsé",
@@ -333,7 +333,7 @@
         {
           "id":54,
           "role":"Suport",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:ELV_Dardez_2016_Fall.png&filetimestamp=20170726204424&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/9/90/ELV_Dardez_2016_Fall.png/220px-ELV_Dardez_2016_Fall.png?version=6f39dc9ffcb3bc18f6d0a7cd0073b61f",
           "pseudo":"Dardez",
           "prenom":"Bastien",
           "nom":"Proust",
@@ -348,12 +348,12 @@
     {
       "id": 6,
       "nom": "NRG Esports",
-      "logo":"https://smite-esports.gamepedia.com/index.php?title=File:NRG_eSportslogo_square.png&filetimestamp=20170726220131&",
+      "logo":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/5/50/NRG_eSportslogo_square.png/300px-NRG_eSportslogo_square.png?version=7dc4b5cc898d89e5d2b3ef2129adca0f",
       "joueurs":[
         {
           "id":60,
           "role":"Solo",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Mianic.png&filetimestamp=20170726215502&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/6/6a/Mianic.png/220px-Mianic.png?version=318ace3679ef19a124c3588350d36621",
           "pseudo":"maniaKK",
           "prenom":"João",
           "nom":"Ferreira",
@@ -363,7 +363,7 @@
         {
           "id":61,
           "role":"Jungle",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:NRG_Adapting_2016_Fall.png&filetimestamp=20170726220033&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/b/bd/NRG_Adapting_2016_Fall.png/220px-NRG_Adapting_2016_Fall.png?version=c4ad0eb7c5c1e28e6185afb8a9591a86",
           "pseudo":"Adapting",
           "prenom":"Kennet",
           "nom":"Ros",
@@ -373,7 +373,7 @@
         {
           "id":62,
           "role":"Mid",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:NRG_Yammyn_2016_Fall.png&filetimestamp=20170726220037&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/0/09/NRG_Yammyn_2016_Fall.png/220px-NRG_Yammyn_2016_Fall.png?version=c557e049ddc27056424e6860b7d7ae79",
           "pseudo":"Yammyn",
           "prenom":"André",
           "nom":"Brännvall",
@@ -383,7 +383,7 @@
         {
           "id":63,
           "role":"Hunter",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:NRG_emilitoo_2016_Fall.png&filetimestamp=20170726220113&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/c/cc/NRG_emilitoo_2016_Fall.png/220px-NRG_emilitoo_2016_Fall.png?version=88bcab8e0fbb55e9dbd4f4b4d6ca4e9b",
           "pseudo":"emilitoo",
           "prenom":"Emil Philip",
           "nom":"Stärnman",
@@ -393,7 +393,7 @@
         {
           "id":64,
           "role":"Suport",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Emilzyobey.png&filetimestamp=20170726205006&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/4/4c/Emilzyobey.png/220px-Emilzyobey.png?version=bbb9513e562b7dd58c7d9641b0e195c8",
           "pseudo":"EmilZy",
           "prenom":"Emil",
           "nom":"Schmidth Nielsen",
@@ -423,12 +423,12 @@
     {
       "id": 7,
       "nom": "Obey Alliance",
-      "logo":"https://smite-esports.gamepedia.com/index.php?title=File:Obey_Alliancelogo_square.png&filetimestamp=20170726221241&",
+      "logo":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/8/88/Obey_Alliancelogo_square.png/300px-Obey_Alliancelogo_square.png?version=03cd9de0eb77a872e636679b638401e7",
       "joueurs":[
         {
           "id":70,
           "role":"Solo",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Orbit_Xaliea_2016_Fall.png&filetimestamp=20170726221624&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/f/fa/Orbit_Xaliea_2016_Fall.png/220px-Orbit_Xaliea_2016_Fall.png?version=326dae74167cd904822ec748cc5fe8c2",
           "pseudo":"Xaliea",
           "prenom":"Jeroen",
           "nom":"Klaver",
@@ -438,7 +438,7 @@
         {
           "id":71,
           "role":"Jungle",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Obey_CaptainTwig_2016_Fall.png&filetimestamp=20170726221205&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/e/e0/Obey_CaptainTwig_2016_Fall.png/220px-Obey_CaptainTwig_2016_Fall.png?version=fa96ba24bc1d254f5d3dc17e7d30c5b5",
           "pseudo":"CaptainTwig",
           "prenom":"Benjamin",
           "nom":"Knight",
@@ -448,7 +448,7 @@
         {
           "id":72,
           "role":"Mid",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Obey_PrettyPriMe_2016_Fall.png&filetimestamp=20170726221319&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/f/f7/Obey_PrettyPriMe_2016_Fall.png/220px-Obey_PrettyPriMe_2016_Fall.png?version=4dc149aa556182726f14732fa4186d99",
           "pseudo":"PrettyPriMe",
           "prenom":"Emil",
           "nom":"Edström",
@@ -458,7 +458,7 @@
         {
           "id":73,
           "role":"Hunter",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Obey_Ataraxia_2016_Fall.png&filetimestamp=20170726221228&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/f/fd/Obey_Ataraxia_2016_Fall.png/220px-Obey_Ataraxia_2016_Fall.png?version=b36c77dd2c1b75b24bf9a6e223751710",
           "pseudo":"Ataraxia",
           "prenom":"Nathaniel",
           "nom":"Mark",
@@ -468,7 +468,7 @@
         {
           "id":74,
           "role":"Suport",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:NRG_iRaffer_2016_Fall.png&filetimestamp=20170726220122&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/a/ab/NRG_iRaffer_2016_Fall.png/220px-NRG_iRaffer_2016_Fall.png?version=fec354330ed4d72efcf51dcf581d6d6b",
           "pseudo":"iRaffer",
           "prenom":"Craig",
           "nom":"Rathbone",
@@ -498,12 +498,12 @@
     {
       "id": 8,
       "nom": "SK Gaming",
-      "logo":"",
+      "logo":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/9/9e/Sk_logo.png/300px-Sk_logo.png?version=a8be57595fb87154c16c04c3db9508fa",
       "joueurs":[
         {
           "id":80,
           "role":"Solo",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:DIG_Duck3y_2016_Fall.png&filetimestamp=20170726203601&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/e/e2/DIG_Duck3y_2016_Fall.png/220px-DIG_Duck3y_2016_Fall.png?version=48993ad9fdb042920a0ffb185f3d9d6c",
           "pseudo":"Duck3y",
           "prenom":"James",
           "nom":"Heseltine",
@@ -513,7 +513,7 @@
         {
           "id":81,
           "role":"Jungle",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Faeles.png&filetimestamp=20170726205652&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/6/69/Faeles.png/220px-Faeles.png?version=252a3f1869d8485dcce7a2104ec7adf8",
           "pseudo":"Faeles",
           "prenom":"Daniel",
           "nom":"Evans",
@@ -523,7 +523,7 @@
         {
           "id":82,
           "role":"Mid",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Orbit_Lawbster_2016_Fall.png&filetimestamp=20170726221615&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/0/0f/Orbit_Lawbster_2016_Fall.png/220px-Orbit_Lawbster_2016_Fall.png?version=f9e7415990b722eb1ced61ad7c8765c7",
           "pseudo":"Lawbster",
           "prenom":"Emil",
           "nom":"Evensen",
@@ -533,7 +533,7 @@
         {
           "id":83,
           "role":"Hunter",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Orbit_Funballer_2016_Fall.png&filetimestamp=20170726221601&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/c/c8/Orbit_Funballer_2016_Fall.png/220px-Orbit_Funballer_2016_Fall.png?version=5f6fccd228b45001331afa38fe82cc68",
           "pseudo":"Funballer",
           "prenom":"Kieran",
           "nom":"Patidar",
@@ -543,7 +543,7 @@
         {
           "id":84,
           "role":"Suport",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:LFTOBadgah2016Spring.png&filetimestamp=20170726214104&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/6/62/LFTOBadgah2016Spring.png/220px-LFTOBadgah2016Spring.png?version=70c787d467205fe5d249b60a37ce198e",
           "pseudo":"Badgah",
           "prenom":"Bo",
           "nom":"Katzenmaier",
@@ -573,12 +573,12 @@
     {
       "id": 9,
       "nom": "Team Dignitas",
-      "logo":"https://smite-esports.gamepedia.com/index.php?title=File:Dignitas.png&filetimestamp=20170726204117&",
+      "logo":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/d/da/Dignitas.png/300px-Dignitas.png?version=834427c8d28087d79a257eba50f46d45",
       "joueurs":[
         {
           "id":90,
           "role":"Solo",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Obey_Variety_2016_Fall.png&filetimestamp=20170726221324&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/7/71/Obey_Variety_2016_Fall.png/220px-Obey_Variety_2016_Fall.png?version=75aaac09eb2c268b8d8908ca16ca550e",
           "pseudo":"Variety",
           "prenom":"Harry",
           "nom":"Cumming",
@@ -588,7 +588,7 @@
         {
           "id":91,
           "role":"Jungle",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Orbit_QvoFred_2016_Fall.png&filetimestamp=20170726221633&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/9/99/Orbit_QvoFred_2016_Fall.png/220px-Orbit_QvoFred_2016_Fall.png?version=48c06ca332fa45d1d43ecffef31774ff",
           "pseudo":"QvoFred",
           "prenom":"Anders",
           "nom":"Korsbo",
@@ -598,7 +598,7 @@
         {
           "id":92,
           "role":"Mid",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:CC_Zyrhoes_2016_Fall.png&filetimestamp=20170726201950&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/c/c9/CC_Zyrhoes_2016_Fall.png/220px-CC_Zyrhoes_2016_Fall.png?version=e5e5c042dc15de3e9e790cd1d37edb06",
           "pseudo":"Zyrhoes",
           "prenom":"Joakim",
           "nom":"Verngren",
@@ -608,7 +608,7 @@
         {
           "id":93,
           "role":"Hunter",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:SnG_Arkkyl_2016_Fall.png&filetimestamp=20170726225622&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/6/63/SnG_Arkkyl_2016_Fall.png/220px-SnG_Arkkyl_2016_Fall.png?version=ae9c6881635b295f0b4d03296a36e47b",
           "pseudo":"Arkkyl",
           "prenom":"Kenny",
           "nom":"Kuska",
@@ -618,7 +618,7 @@
         {
           "id":94,
           "role":"Suport",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Orbit_Trixtank_2016_Fall.png&filetimestamp=20170726221629&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/a/a5/Orbit_Trixtank_2016_Fall.png/220px-Orbit_Trixtank_2016_Fall.png?version=ea17c188d7d0835846ba063b9cc29098",
           "pseudo":"Trixtank",
           "prenom":"Jeppe",
           "nom":"Gylling",
@@ -648,12 +648,12 @@
     {
       "id": 10,
       "nom": "Team RivaL",
-      "logo":"https://smite-esports.gamepedia.com/index.php?title=File:TeamRival.png&filetimestamp=20170726231243&",
+      "logo":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/0/0a/TeamRival.png/300px-TeamRival.png?version=3f6abd6aa1e6dce98fbce4dd6e4b1b65",
       "joueurs":[
         {
           "id":100,
           "role":"Solo",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Cyclone_Deathwalker_2016_Fall.png&filetimestamp=20170726203500&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/6/6e/Cyclone_Deathwalker_2016_Fall.png/220px-Cyclone_Deathwalker_2016_Fall.png?version=170d97f746bbe5653b3f8777f79b41a9",
           "pseudo":"Deathwalker",
         "prenom":"Adrian",
           "nom":"Benko",
@@ -663,7 +663,7 @@
         {
           "id":101,
           "role":"Jungle",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Cyclone_iceicebabyy_2016_Fall.png&filetimestamp=20170726203537&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/4/4a/Cyclone_iceicebabyy_2016_Fall.png/220px-Cyclone_iceicebabyy_2016_Fall.png?version=8661c8a41b98ecfd65542aea021a67eb",
           "pseudo":"iceicebabyy",
           "prenom":"Aleksandar",
           "nom":"Zahariev",
@@ -673,7 +673,7 @@
         {
           "id":102,
           "role":"Mid",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Cyclone_Wlfy_2016_Fall.png&filetimestamp=20170726203528&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/2/28/Cyclone_Wlfy_2016_Fall.png/220px-Cyclone_Wlfy_2016_Fall.png?version=99e3b9655ae80897eefe1e8f89d60354",
           "pseudo":"Wlfy",
           "prenom":"Alexandru",
           "nom":"Lefterică",
@@ -683,7 +683,7 @@
         {
           "id":103,
           "role":"Hunter",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Cyclone_VoteNBK_2016_Fall.png&filetimestamp=20170726203429&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/c/cf/Cyclone_VoteNBK_2016_Fall.png/220px-Cyclone_VoteNBK_2016_Fall.png?version=71f7676ae8957f3bda0e3914feeb0037",
           "pseudo":"Vote",
           "prenom":"Liam",
           "nom":"Shanks",
@@ -691,9 +691,9 @@
           "origine":"UK"
         },
         {
-          "id":94,
+          "id":104,
           "role":"Suport",
-          "image":"https://smite-esports.gamepedia.com/index.php?title=File:Cyclone_KaLas_2016_Fall.png&filetimestamp=20170726203443&",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/5/50/Cyclone_KaLas_2016_Fall.png/220px-Cyclone_KaLas_2016_Fall.png?version=0f4489bb908edef1a9a2da29d59e1cd7",
           "pseudo":"KaLaS",
           "prenom":"Petar",
           "nom":"Matejić",
@@ -717,6 +717,81 @@
           "nomEvent":"2017 EU SPL Fall Season",
           "place":"3rd",
           "date":"2017-10-07"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "nom": "Luminosity Gaming",
+      "logo":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/6/64/Luminosity_Gaming.png/300px-Luminosity_Gaming.png?version=c0943858cc9eed08568228f7ec237130",
+      "joueurs":[
+        {
+          "id":110,
+          "role":"Solo",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/6/6e/Cyclone_Deathwalker_2016_Fall.png/220px-Cyclone_Deathwalker_2016_Fall.png?version=170d97f746bbe5653b3f8777f79b41a9",
+          "pseudo":"Deathwalker",
+        "prenom":"Adrian",
+          "nom":"Benko",
+          "anniversaire":"???",
+          "origine":"Croatia"
+        },
+        {
+          "id":111,
+          "role":"Jungle",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/4/4a/Cyclone_iceicebabyy_2016_Fall.png/220px-Cyclone_iceicebabyy_2016_Fall.png?version=8661c8a41b98ecfd65542aea021a67eb",
+          "pseudo":"iceicebabyy",
+          "prenom":"Aleksandar",
+          "nom":"Zahariev",
+          "anniversaire":"1995",
+          "origine":"Bulgaria"
+        },
+        {
+          "id":112,
+          "role":"Mid",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/2/28/Cyclone_Wlfy_2016_Fall.png/220px-Cyclone_Wlfy_2016_Fall.png?version=99e3b9655ae80897eefe1e8f89d60354",
+          "pseudo":"Wlfy",
+          "prenom":"Alexandru",
+          "nom":"Lefterică",
+          "anniversaire":"11/08/1997",
+          "origine":"Romania"
+        },
+        {
+          "id":113,
+          "role":"Hunter",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/c/cf/Cyclone_VoteNBK_2016_Fall.png/220px-Cyclone_VoteNBK_2016_Fall.png?version=71f7676ae8957f3bda0e3914feeb0037",
+          "pseudo":"Vote",
+          "prenom":"Liam",
+          "nom":"Shanks",
+          "anniversaire":"1997",
+          "origine":"UK"
+        },
+        {
+          "id":114,
+          "role":"Suport",
+          "image":"https://d1u5p3l4wpay3k.cloudfront.net/smiteesports_gamepedia_en/thumb/5/50/Cyclone_KaLas_2016_Fall.png/220px-Cyclone_KaLas_2016_Fall.png?version=0f4489bb908edef1a9a2da29d59e1cd7",
+          "pseudo":"KaLaS",
+          "prenom":"Petar",
+          "nom":"Matejić",
+          "anniversaire":"???",
+          "origine":"Croatia"
+        }
+      ],
+      "origine":"Canada",
+      "palmarès":[
+        {
+          "nomEvent":"SMITE World Championship 2018",
+          "place":"5-8th",
+          "date":"2018-01-07"
+        },
+        {
+          "nomEvent":"2017 NA Regional Championship",
+          "place":"2nd",
+          "date":"2017-11-05"
+        },
+        {
+          "nomEvent":"2017 NA SPL Fall Season",
+          "place":"2nd",
+          "date":"2017-10-09"
         }
       ]
     }
