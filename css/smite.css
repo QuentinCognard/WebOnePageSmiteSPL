@@ -1,0 +1,20 @@
+#liste-joueurs , #info-joueur, #palmares{
+  border: 2px black solid;
+}
+#test{
+  display: flex;
+  height: 30em;
+}
+#liste-joueurs{
+  flex: 1 1;
+
+
+}
+ #info-joueur{
+   flex: 1 1;
+
+ }
+
+#palmares{
+  height: 20em;
+}
