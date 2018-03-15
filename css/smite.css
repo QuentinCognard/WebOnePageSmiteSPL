@@ -1,16 +1,16 @@
-#liste-joueurs , #info-joueur, #palmares{
+#listejoueurs , #infojoueur, #palmares{
   border: 2px black solid;
 }
 #test{
   display: flex;
   height: 30em;
 }
-#liste-joueurs{
+#listejoueurs{
   flex: 1 1;
 
 
 }
- #info-joueur{
+ #infojoueur{
    flex: 1 1;
 
  }
