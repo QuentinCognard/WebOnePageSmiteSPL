@@ -1,3 +1,4 @@
+
 #listejoueurs , #infojoueur, #palmares{
   border: 2px black solid;
 }
@@ -12,7 +13,6 @@
 }
  #infojoueur{
    flex: 1 1;
-
  }
 
 #palmares{

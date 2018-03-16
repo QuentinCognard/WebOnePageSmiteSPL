@@ -1,5 +1,6 @@
 $(function() {
 teamList();
+details(equipe[1]);
 // afficherTeam("NRG Esports");
     function teamList(){
       $.ajax({
@@ -63,11 +64,11 @@ teamList();
     function fillFormJoueur(t){
       $("#logojoueur").attr('src',t.image);
       $("#nomjoueure").text(t.pseudo);
-      $("#prenom").text(t.prenom);
-      $("#nom").text(t.nom);
-      $("#anniversaire").text(t.anniversaire);
-      $("#role").text(t.role);
-      $("#originejoueur").text(t.originejoueur);
+      $("#prenom").text("Prenom : "+t.prenom);
+      $("#nom").text("Nom : "+t.nom);
+      $("#anniversaire").text("Data naissance : "+t.anniversaire);
+      $("#role").text("Rôle : "+t.role);
+      $("#originejoueur").text("Origine : "+t.originejoueur);
 
 
     }
