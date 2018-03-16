@@ -17,15 +17,26 @@ details(equipe[1]);
               .append($("<img src='"+equipe[i].logo+"' class='fa fa-fw fa-dashboard'>"))
               .append($("<span class='nav-link-text'>").text("  "+equipe[i].nom))));
 
-
           }
+
+          $('#exampleAccordion').append($("<input type='submit' value='Prochains matchs'>")).on("click",match[i],equipe[i],match);
         }
         });
   }
 
+  function match(match,equipe){
+    $("#big").empty();
+    for(var i=0;i<match.length;i++){
+      $("#big")
+      .append($("<section id='"+i+"'>")
+      .append($("<img src='"+equipe[match[i].equipe1].logo+"'>"))
+      .append($("<i id='"+match[i].equipe1+"'class='glyphicon glyphicon-plus'>"))
+      .append($(""))
+    }
+  }
+
   function details(event){
-      $("#listejoueurs").empty();
-      $("#palmares").empty();
+    $("#big").empty();
       formEquipe();
       fillFormEquipe(event.data);
       console.log("event");
@@ -51,6 +62,11 @@ details(equipe[1]);
         }
 
   function formEquipe(){
+      $("#big")
+        .append($("<section id='principale'>")
+        .append($("<section id='listejoueurs'>"))
+        .append($("<section id='infojoueur'>")))
+        .append($("<section id='palmares'>"));
       $("#listejoueurs")
         .append($("<section id='logo-nom'>")
         .append($("<img id='logoteam'>"))

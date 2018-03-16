@@ -2,7 +2,7 @@
 #listejoueurs , #infojoueur, #palmares{
   border: 2px black solid;
 }
-#test{
+#principale{
   display: flex;
   height: 30em;
 }

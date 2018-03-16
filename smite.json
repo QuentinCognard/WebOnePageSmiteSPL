@@ -795,5 +795,16 @@
         }
       ]
     }
+  ],
+  "match" : [
+    {
+    "equipe1" : 6,
+    "equipe2" : 10,
+    "pronostic1" : 0,
+    "pronostic2" : 0,
+    "idMatch" : 1,
+    "data" : "2017-03-20",
+    "heure" : "18h30"
+  }
   ]
 }
