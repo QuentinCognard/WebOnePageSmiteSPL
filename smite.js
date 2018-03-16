@@ -1,6 +1,5 @@
 $(function() {
 teamList();
-details(equipe[1]);
 // afficherTeam("NRG Esports");
     function teamList(){
       $.ajax({
@@ -8,9 +7,7 @@ details(equipe[1]);
         type: "GET",
         dataType : "json",
         success: function(equipe) {
-          console.log(JSON.stringify(equipe));
           for(var i=0;i<equipe.length;i++){
-              console.log(equipe[i]);
               $('#exampleAccordion')
               .append($('<li class="nav-item" data-toggle="tooltip" data-placement="right" >')
               .append($('<a class="nav-link">').on("click", equipe[i], details)
@@ -18,20 +15,34 @@ details(equipe[1]);
               .append($("<span class='nav-link-text'>").text("  "+equipe[i].nom))));
 
           }
-
-          $('#exampleAccordion').append($("<input type='submit' value='Prochains matchs'>")).on("click",match[i],equipe[i],match);
+          $.ajax({
+            url: "http://localhost:3000/match",
+            type: "GET",
+            dataType: "json",
+            success: function(match){
+                console.log("jesuisla");
+                $('#exampleAccordion').append($("<a href='index.html'> <input type='Submit'value='Prochains matchs'></a>").on("click",matches(match,equipe)));
+            }
+          });
         }
         });
   }
 
-  function match(match,equipe){
+  function matches(match,equipe){
     $("#big").empty();
-    for(var i=0;i<match.length;i++){
+          console.log("jesuisBIG1");
+    for(var i=0;i<1;i++){
+      console.log(equipe);
+
       $("#big")
       .append($("<section id='"+i+"'>")
-      .append($("<img src='"+equipe[match[i].equipe1].logo+"'>"))
-      .append($("<i id='"+match[i].equipe1+"'class='glyphicon glyphicon-plus'>"))
-      .append($(""))
+      .append($("<img src='"+equipe[match[i].equipe1-1].logo+"'>"))
+      .append($("<i id='"+match[i].equipe1+"'class='glyphicon glyphicon-plus'> + </i>"))
+      .append($("<p id='pourcentage"+match[i].equipe1+"'>"+match[i].pronostic1+"</p>"))
+      .append($("<p id='pourcentage"+match[i].equipe2+"'>"+match[i].pronostic2+"</p>"))
+      .append($("<i id='"+match[i].equipe2+"'class='glyphicon glyphicon-plus'> + </i>"))
+      .append($("<img src='"+equipe[match[i].equipe2-1].logo+"'>")));
+      console.log("jesuisBIG3");
     }
   }
 
