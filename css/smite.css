@@ -5,16 +5,49 @@
 #principale{
   display: flex;
   height: 30em;
+  padding-top: 0;
+
 }
 #listejoueurs{
   flex: 1 1;
+  margin-top: 0;
+
 
 
 }
  #infojoueur{
    flex: 1 1;
+   margin-top: 0;
  }
 
 #palmares{
   height: 20em;
+}
+
+.imgmatch{
+  height: 5%;
+  width: 5%;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.secmatch{
+  display: flex;
+}
+
+.secmatch p {
+  flex : 0 1;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+#mainNav a {
+  text-decoration: none;
+}
+#mainNav input:hover {
+  color: red;
+}
+#mainNav input {
+  margin-right: 90%;
+
 }

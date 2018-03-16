@@ -21,7 +21,7 @@ teamList();
             dataType: "json",
             success: function(match){
                 console.log("jesuisla");
-                $('#exampleAccordion').append($("<a href='index.html'> <input type='Submit'value='Prochains matchs'></a>").on("click",matches(match,equipe)));
+                $('#mainNav').append($("<a href='index.html'> <input type='Submit'value='Prochains matchs'></a>").on("click",matches(match,equipe)));
             }
           });
         }
@@ -33,15 +33,14 @@ teamList();
           console.log("jesuisBIG1");
     for(var i=0;i<1;i++){
       console.log(equipe);
-
       $("#big")
-      .append($("<section id='"+i+"'>")
-      .append($("<img src='"+equipe[match[i].equipe1-1].logo+"'>"))
-      .append($("<i id='"+match[i].equipe1+"'class='glyphicon glyphicon-plus'> + </i>"))
+      .append($("<section class='secmatch 'id='"+i+"'>")
+      .append($("<img class='imgmatch' src='"+equipe[match[i].equipe1-1].logo+"'>"))
+      .append($("<input type='button' class='btn btn-default btn-lg' value='+' id='"+match[i].equipe1+"'> </input>"))
       .append($("<p id='pourcentage"+match[i].equipe1+"'>"+match[i].pronostic1+"</p>"))
       .append($("<p id='pourcentage"+match[i].equipe2+"'>"+match[i].pronostic2+"</p>"))
-      .append($("<i id='"+match[i].equipe2+"'class='glyphicon glyphicon-plus'> + </i>"))
-      .append($("<img src='"+equipe[match[i].equipe2-1].logo+"'>")));
+      .append($("<input type='button' class='btn btn-default btn-lg' value='+' id='"+match[i].equipe2+"'> </input>"))
+      .append($("<img class='imgmatch' src='"+equipe[match[i].equipe2-1].logo+"'>")));
       console.log("jesuisBIG3");
     }
   }
