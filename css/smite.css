@@ -13,6 +13,9 @@
 
 }
 
+#big{
+  background-image: url("../img/smite2.png");
+}
 
 #listejoueurs{
   flex: 1 1;
