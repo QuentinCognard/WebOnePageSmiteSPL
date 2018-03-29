@@ -51,8 +51,49 @@
   margin-right: 90%;
 
 }
+#logoteam{
+  height: 5em;
+  width: 5em;
+  display: flex;
+}
+#secliste{
+  margin-top: 2em;
+  margin-left: 3em;
+  font-size: 2em;
+}
+#nomteam{
+  font-size: 2em;
+  margin-top: 0.75em;
+  margin-left: 0.75em;
+}
 
-
+#logo-nom{
+  margin-left: 2em;
+    display: flex;
+}
+#nomjoueure{
+  font-size: 2em;
+  margin-top: 0.75em;
+  margin-left: 0.75em;
+}
+#detailj{
+  margin-top: 2em;
+  margin-left: 3em;
+  font-size: 1.5em;
+}
+#listepalma{
+  margin-left: 20%;
+  margin-top: 1em;
+  font-size: 1.5em;
+}
+#logojoueur{
+  height: 6em;
+  width: 6em;
+}
+#joueur{
+  display: flex;
+  margin-left: 1em;
+}
 
 .secmatch{
     margin-left: 6em;
