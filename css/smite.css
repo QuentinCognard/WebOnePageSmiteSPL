@@ -54,10 +54,16 @@
 
 
 
-#reverseprogress {
+.secmatch{
+    margin-left: 6em;
+    margin-top: 2em;
+    margin-bottom: 1.5em;
+}
+
+.reverseprogress {
     transform: rotate(180deg);
 }
 
-#normalprogress progress {
+.normalprogress progress {
   color: #ffff00;
 }

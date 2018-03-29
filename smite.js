@@ -39,10 +39,10 @@ teamList();
       .append($("<section class='secmatch 'id='"+i+"'>")
       .append($("<img class='imgmatch' src='"+equipe[match[i].equipe1-1].logo+"'>"))
       .append($("<input type='button' name='vote' class='btn btn-info btn-lg' value='+' id='"+match[i].id+match[i].equipe1+"'> </input>").on("click",match[i],ajoutmatch))
-      .append($("<input type = 'hidden' id='pourcentage"+match[i].equipe1+match[i].id+"' value = '"+match[i].pronostic1+"'></input>"))
-      .append($("<input type = 'hidden' id='pourcentage"+match[i].equipe2+match[i].id+"' value = '"+match[i].pronostic2+"'></input>"))
-      .append($("<progress id='reverseprogress' value="+match[i].pronostic1+" max="+(match[i].pronostic1+match[i].pronostic2)+">"+'match[i].pronostic1'+"</progress>"))
-      .append($("<progress id='normalprogress' value="+match[i].pronostic2+" max="+(match[i].pronostic1+match[i].pronostic2)+">"+'match[i].pronostic1'+"</progress>"))
+      .append($("<p id='pourcentage"+match[i].equipe1+match[i].id+"'>"+match[i].pronostic1+"</p>"))
+      .append($("<progress class='reverseprogress' id='reverseprogress"+match[i].equipe1+match[i].id+"' value="+match[i].pronostic1+" max="+(match[i].pronostic1+match[i].pronostic2)+">"+match[i].pronostic1+"</progress>"))
+      .append($("<progress class='normalprogress' id='normalprogress"+match[i].equipe2+match[i].id+"' value="+match[i].pronostic2+" max="+(match[i].pronostic1+match[i].pronostic2)+">"+match[i].pronostic1+"</progress>"))
+      .append($("<p id='pourcentage"+match[i].equipe2+match[i].id+"'>"+match[i].pronostic2+"</p>"))
       .append($("<input type='button' name='vote' class='btn btn-info btn-lg' value='+' id='"+match[i].id+match[i].equipe2+"'> </input>").on("click",match[i],ajoutmatch2))
       .append($("<img class='imgmatch' src='"+equipe[match[i].equipe2-1].logo+"'>")));
       console.log(match[i]);
@@ -72,10 +72,14 @@ teamList();
       match.data.date,
       match.data.heure
     );
-    console.log(""+matche.id+""+matche.equipe1);
+
     var buton=document.getElementById(""+matche.id+""+matche.equipe1).disabled=true;
-        var buton=document.getElementById(""+matche.id+""+matche.equipe2).disabled=true;
-    var vote=document.getElementById("pourcentage"+matche.equipe1+matche.id).innerHTML=match.data.pronostic1 + 1 + " votes";
+    var buton=document.getElementById(""+matche.id+""+matche.equipe2).disabled=true;
+    document.getElementById("pourcentage"+matche.equipe1+matche.id).innerHTML=match.data.pronostic1 + 1;
+    document.getElementById("reverseprogress"+matche.equipe1+matche.id).value=match.data.pronostic1 + 1;
+    document.getElementById("reverseprogress"+matche.equipe1+matche.id).max=(matche.pronostic1+matche.pronostic2);
+    document.getElementById("normalprogress"+matche.equipe2+matche.id).max=(matche.pronostic1+matche.pronostic2);
+    console.log("pourcentage"+matche.equipe1+matche.id);
 
     $.ajax({
       url: matche.uri,
@@ -106,8 +110,11 @@ teamList();
     );
     console.log(""+matche.id+""+matche.equipe2);
     var buton=document.getElementById(""+matche.id+""+matche.equipe2).disabled=true;
-            var buton=document.getElementById(""+matche.id+""+matche.equipe1).disabled=true
-    var vote=document.getElementById("pourcentage"+matche.equipe2+matche.id).innerHTML=match.data.pronostic2 + 1 + " votes";
+    var buton=document.getElementById(""+matche.id+""+matche.equipe1).disabled=true
+    var vote=document.getElementById("pourcentage"+matche.equipe2+matche.id).innerHTML=match.data.pronostic2 + 1;
+    document.getElementById("normalprogress"+matche.equipe2+matche.id).value=match.data.pronostic1 + 1;
+    document.getElementById("normalprogress"+matche.equipe2+matche.id).max=(matche.pronostic1+matche.pronostic2);
+    document.getElementById("reverseprogress"+matche.equipe1+matche.id).max=(matche.pronostic1+matche.pronostic2);
 
     $.ajax({
       url: matche.uri,
