@@ -146,13 +146,15 @@ teamList();
 
     function formJoueur(){
         $("#infojoueur")
+          .append($("<section id='joueur'>")
           .append($("<img id='logojoueur'>"))
-          .append($('<h1 id="nomjoueure"></h1>'))
+          .append($('<h1 id="nomjoueure"></h1>')))
+          .append($("<section id='detailj'> ")
           .append($("<p id='prenom'>"))
           .append($("<p id='nom'>"))
           .append($("<p id='anniversaire'>"))
           .append($("<p id='role'>"))
-          .append($("<p id='originejoueur'>"));
+          .append($("<p id='originejoueur'>")));
 
 
         }
