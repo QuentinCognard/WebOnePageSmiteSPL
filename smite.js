@@ -33,14 +33,16 @@ teamList();
   function matches(match,equipe){
     $("#big").empty();
           console.log("jesuisBIG1");
-    for(var i=0;i<1;i++){
+    for(var i=0;i<match.length;i++){
       console.log(equipe);
       $("#big")
       .append($("<section class='secmatch 'id='"+i+"'>")
       .append($("<img class='imgmatch' src='"+equipe[match[i].equipe1-1].logo+"'>"))
       .append($("<input type='button' name='vote' class='btn btn-info btn-lg' value='+' id='"+match[i].id+match[i].equipe1+"'> </input>").on("click",match[i],ajoutmatch))
-      .append($("<p id='pourcentage"+match[i].equipe1+"'>"+match[i].pronostic1+" votes </p>"))
-      .append($("<p id='pourcentage"+match[i].equipe2+"'>"+match[i].pronostic2+" votes </p>"))
+      .append($("<input type = 'hidden' id='pourcentage"+match[i].equipe1+match[i].id+"' value = '"+match[i].pronostic1+"'></input>"))
+      .append($("<input type = 'hidden' id='pourcentage"+match[i].equipe2+match[i].id+"' value = '"+match[i].pronostic2+"'></input>"))
+      .append($("<progress id='reverseprogress' value="+match[i].pronostic1+" max="+(match[i].pronostic1+match[i].pronostic2)+">"+'match[i].pronostic1'+"</progress>"))
+      .append($("<progress id='normalprogress' value="+match[i].pronostic2+" max="+(match[i].pronostic1+match[i].pronostic2)+">"+'match[i].pronostic1'+"</progress>"))
       .append($("<input type='button' name='vote' class='btn btn-info btn-lg' value='+' id='"+match[i].id+match[i].equipe2+"'> </input>").on("click",match[i],ajoutmatch2))
       .append($("<img class='imgmatch' src='"+equipe[match[i].equipe2-1].logo+"'>")));
       console.log(match[i]);
@@ -73,7 +75,7 @@ teamList();
     console.log(""+matche.id+""+matche.equipe1);
     var buton=document.getElementById(""+matche.id+""+matche.equipe1).disabled=true;
         var buton=document.getElementById(""+matche.id+""+matche.equipe2).disabled=true;
-    var vote=document.getElementById("pourcentage"+matche.equipe1).innerHTML=match.data.pronostic1 + 1 + " votes";
+    var vote=document.getElementById("pourcentage"+matche.equipe1+matche.id).innerHTML=match.data.pronostic1 + 1 + " votes";
 
     $.ajax({
       url: matche.uri,
@@ -105,7 +107,7 @@ teamList();
     console.log(""+matche.id+""+matche.equipe2);
     var buton=document.getElementById(""+matche.id+""+matche.equipe2).disabled=true;
             var buton=document.getElementById(""+matche.id+""+matche.equipe1).disabled=true
-    var vote=document.getElementById("pourcentage"+matche.equipe2).innerHTML=match.data.pronostic2 + 1 + " votes";
+    var vote=document.getElementById("pourcentage"+matche.equipe2+matche.id).innerHTML=match.data.pronostic2 + 1 + " votes";
 
     $.ajax({
       url: matche.uri,

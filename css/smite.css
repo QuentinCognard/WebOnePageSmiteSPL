@@ -51,3 +51,13 @@
   margin-right: 90%;
 
 }
+
+
+
+#reverseprogress {
+    transform: rotate(180deg);
+}
+
+#normalprogress progress {
+  color: #ffff00;
+}
