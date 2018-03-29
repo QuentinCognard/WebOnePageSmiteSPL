@@ -158,14 +158,14 @@ teamList();
     function formJoueur(){
         $("#infojoueur")
           .append($("<section id='joueur'>")
-          .append($("<img id='logojoueur'>"))
+          .append($("<img id='logojoueur' class='border border-danger rounded'>"))
           .append($('<h1 id="nomjoueure"></h1>')))
           .append($("<section id='detailj'> ")
-          .append($("<p id='prenom'>"))
-          .append($("<p id='nom'>"))
-          .append($("<p id='anniversaire'>"))
-          .append($("<p id='role'>"))
-          .append($("<p id='originejoueur'>")));
+          .append($("<h2> Prénom :</h2><p class='border border-danger' id='prenom'>"))
+          .append($("<h2 > Nom :</h2><p class='border border-danger' id='nom'>"))
+          .append($("<h2 > Date de naissance :</h2><p class='border border-danger' id='anniversaire'>"))
+          .append($("<h2 > Rôle :</h2><p class='border border-danger' id='role'>"))
+          .append($("<h2 > Origine :</h2><p class='border border-danger' id='originejoueur'>")));
 
 
         }
@@ -178,22 +178,22 @@ teamList();
         .append($("<section id='palmares'>"));
       $("#listejoueurs")
         .append($("<section id='logo-nom'>")
-        .append($("<img id='logoteam'>"))
-        .append($('<h1 id="nomteam"></h1>')))
+        .append($("<img id='logoteam' class='border border-primary rounded'>"))
+        .append($("<h1 id='nomteam'></h1>")))
         .append($("<section id='secliste'>")
         .append($("<ul id='liste'>")));
       $("#palmares")
-        .append($("<ul id='listepalma'>"));
+        .append($("<ul  id='listepalma'>"));
       }
 
     function fillFormJoueur(t){
       $("#logojoueur").attr('src',t.image);
       $("#nomjoueure").text(t.pseudo);
-      $("#prenom").text("Prenom : "+t.prenom);
-      $("#nom").text("Nom : "+t.nom);
-      $("#anniversaire").text("Data naissance : "+t.anniversaire);
-      $("#role").text("Rôle : "+t.role);
-      $("#originejoueur").text("Origine : "+t.originejoueur);
+      $("#prenom").text(t.prenom);
+      $("#nom").text(t.nom);
+      $("#anniversaire").text(t.anniversaire);
+      $("#role").text(t.role);
+      $("#originejoueur").text(t.origine);
 
 
     }
@@ -203,11 +203,11 @@ teamList();
         $("#logoteam").attr('src',t.logo);
         for (var i=0;i<t.joueurs.length;i++){
           $("#liste")
-          .append($("<li> <a id='"+t.joueurs[i].id+"'>"+t.joueurs[i].pseudo+"</a></li>").on("click", t.joueurs[i], detailsJoueur));
+          .append($("<li> <a class='btn btn-outline-info' id='"+t.joueurs[i].id+"'>"+t.joueurs[i].pseudo+"</a></li>").on("click", t.joueurs[i], detailsJoueur));
         }
         for (var i=0;i<t.palmares.length;i++){
           $("#listepalma")
-          .append($("<li>"+t.palmares[i].date+" | "+t.palmares[i].place+" | "+t.palmares[i].nomEvent+"</li>"));
+          .append($("<li class='p-3 mb-2 bg-success text-white'>"+t.palmares[i].date+" | "+t.palmares[i].place+" | "+t.palmares[i].nomEvent+"</li>"));
         }
 
       }

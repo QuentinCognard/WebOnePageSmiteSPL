@@ -1,16 +1,23 @@
 
 #listejoueurs , #infojoueur, #palmares{
-  border: 2px black solid;
+
 }
 #principale{
   display: flex;
   height: 30em;
   padding-top: 0;
+  background-image: url("../img/smite2.png");
+  opacity: 1;
+
+
 
 }
+
+
 #listejoueurs{
   flex: 1 1;
   margin-top: 0;
+  border-right: 2px solid #ffbb33;
 
 
 
@@ -18,10 +25,12 @@
  #infojoueur{
    flex: 1 1;
    margin-top: 0;
+  opacity: 1.0;
  }
 
 #palmares{
   height: 20em;
+  border-top: 2px solid #ffbb33;
 }
 
 .imgmatch{
@@ -52,6 +61,7 @@
 
 }
 #logoteam{
+  margin-top : 1em ;
   height: 5em;
   width: 5em;
   display: flex;
@@ -65,6 +75,9 @@
   font-size: 2em;
   margin-top: 0.75em;
   margin-left: 0.75em;
+  border-bottom: 0.25em solid #b2b2ff;
+  border-radius: 5px;
+
 }
 
 #logo-nom{
@@ -75,6 +88,9 @@
   font-size: 2em;
   margin-top: 0.75em;
   margin-left: 0.75em;
+  border-bottom: 0.25em solid #b20000;
+  border-radius: 5px;
+  color: #b20000;
 }
 #detailj{
   margin-top: 2em;
@@ -82,13 +98,14 @@
   font-size: 1.5em;
 }
 #listepalma{
-  margin-left: 20%;
   margin-top: 1em;
   font-size: 1.5em;
+  list-style-type: none;
 }
 #logojoueur{
   height: 6em;
   width: 6em;
+  margin-top: 1em;
 }
 #joueur{
   display: flex;
@@ -111,3 +128,23 @@
 .plus::-moz-progress-bar{
     background: #00FF00;
 }
+
+h1 {
+  font-weight: 900;
+  font-family: impact;
+}
+
+#liste {
+  list-style-type: none;
+}
+
+h2 {
+  font-weight: bolder;
+  float: left;
+  margin: 0em;
+}
+
+/*#prenom,#nom,#anniversaire,#role,#originejoueur{
+  background-color: #ff3232;
+  color: white;
+}*/
