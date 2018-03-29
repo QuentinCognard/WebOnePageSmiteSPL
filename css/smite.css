@@ -59,11 +59,14 @@
     margin-top: 2em;
     margin-bottom: 1.5em;
 }
-
-.reverseprogress {
-    transform: rotate(180deg);
+.reverseprogress{
+  transform: rotate(180deg);
 }
 
-.normalprogress progress {
-  color: #ffff00;
+.moins::-moz-progress-bar {
+    background: #FE1B00;
+}
+
+.plus::-moz-progress-bar{
+    background: #00FF00;
 }

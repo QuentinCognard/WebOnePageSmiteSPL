@@ -799,7 +799,7 @@
       "equipe1": 6,
       "equipe2": 10,
       "pronostic1": 13,
-      "pronostic2": 10,
+      "pronostic2": 11,
       "id": 1,
       "uri": "http://localhost:3000/match/1",
       "heure": "18h30"
@@ -807,7 +807,7 @@
     {
       "equipe1": 8,
       "equipe2": 5,
-      "pronostic1": 12,
+      "pronostic1": 14,
       "pronostic2": 8,
       "id": 2,
       "uri": "http://localhost:3000/match/2",
@@ -816,7 +816,7 @@
     {
       "equipe1": 9,
       "equipe2": 5,
-      "pronostic1": 10,
+      "pronostic1": 11,
       "pronostic2": 6,
       "id": 3,
       "uri": "http://localhost:3000/match/3",
@@ -825,7 +825,7 @@
     {
       "equipe1": 10,
       "equipe2": 7,
-      "pronostic1": 44,
+      "pronostic1": 45,
       "pronostic2": 6,
       "id": 4,
       "uri": "http://localhost:3000/match/4",
@@ -834,8 +834,8 @@
     {
       "equipe1": 7,
       "equipe2": 9,
-      "pronostic1": 8,
-      "pronostic2": 5,
+      "pronostic1": 9,
+      "pronostic2": 6,
       "id": 5,
       "uri": "http://localhost:3000/match/5",
       "heure": "17h15"
@@ -843,7 +843,7 @@
     {
       "equipe1": 10,
       "equipe2": 9,
-      "pronostic1": 6,
+      "pronostic1": 7,
       "pronostic2": 5,
       "id": 6,
       "uri": "http://localhost:3000/match/6",
@@ -861,7 +861,7 @@
     {
       "equipe1": 6,
       "equipe2": 7,
-      "pronostic1": 3,
+      "pronostic1": 5,
       "pronostic2": 4,
       "id": 8,
       "uri": "http://localhost:3000/match/8",

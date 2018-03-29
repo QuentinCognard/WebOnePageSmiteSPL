@@ -45,6 +45,17 @@ teamList();
       .append($("<p id='pourcentage"+match[i].equipe2+match[i].id+"'>"+match[i].pronostic2+"</p>"))
       .append($("<input type='button' name='vote' class='btn btn-info btn-lg' value='+' id='"+match[i].id+match[i].equipe2+"'> </input>").on("click",match[i],ajoutmatch2))
       .append($("<img class='imgmatch' src='"+equipe[match[i].equipe2-1].logo+"'>")));
+      var reversbarval= document.getElementById("reverseprogress"+match[i].equipe1+match[i].id);
+      var normalbarval = document.getElementById("normalprogress"+match[i].equipe2+match[i].id);
+      if (reversbarval.value>normalbarval.value){
+        reversbarval.classList.add("plus");
+        normalbarval.classList.add("moins");
+      }
+      else {
+        reversbarval.classList.add("moins");
+        normalbarval.classList.add("plus");
+
+      }
       console.log(match[i]);
       console.log("jesuisBIG3");
     }
